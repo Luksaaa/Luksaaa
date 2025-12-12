@@ -40,11 +40,6 @@ Some of the projects were for school or college purposes. We were given a theme,
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luksaaa&show_icons=true&theme=radical" alt="stats" />
-</p>
 
 
 ---
