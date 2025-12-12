@@ -38,9 +38,4 @@ Some of the projects were for school or college purposes. We were given a theme,
   
 </p>
 
----
-
-
-
----
 
