@@ -9,10 +9,13 @@ Some of the projects were for school or college purposes. We were given a theme,
 ---
 <p align="left">
   
+<a href="www.linkedin.com/in/luka-luksic" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-Follow-blueviolet?logo=linkedin&style=for-the-badge" alt="linkedin badge" />
+</a>
+
 <a href="https://www.instagram.com/luksic69" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-Follow-blueviolet?logo=instagram&style=for-the-badge" alt="Instagram badge" />
 </a>
-
 
 </p>
   
