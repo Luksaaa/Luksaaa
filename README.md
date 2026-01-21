@@ -10,7 +10,7 @@ Some of the projects were for school or college purposes. We were given a theme,
 <p align="left">
   
 <a href="https://www.linkedin.com/in/luka-luksic" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-Follow-blueviolet?logo=linkedin&style=for-the-badge" alt="linkedin badge" />
+  <img src="https://img.shields.io/badge/linkedin-Connect-blueviolet?logo=linkedin&style=for-the-badge" alt="linkedin badge" />
 </a>
 
 <a href="https://www.instagram.com/luksic69" target="_blank">
