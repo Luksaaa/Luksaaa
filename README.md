@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### **[Castle Rumble (UE5 Game Jam)](https://github.com/Luksaaa/castle-rumble)**
 *   Developed a team-based multiplayer game in **Unreal Engine 5** using a hybrid of **C++** and **Visual Scripting (Blueprints)** for rapid prototyping and combat logic.
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠️ Technical & Creative Expertise
+### Technical & Creative Expertise
 
 #### **Game Development & 3D**
 <p align="left">
@@ -62,15 +62,7 @@
 
 ---
 
-### 📊 GitHub Statistics & Profile
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luksaaa&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luksaaa&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📬 Reach Me
+### Contact & Professional Links
 *   **Email:** [luka.luksic.09@gmail.com](mailto:luka.luksic.09@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/luka-luksic](https://www.linkedin.com/in/luka-luksic)
 *   **Instagram:** [instagram.com/luksic69](https://www.instagram.com/luksic69)
